@@ -1,70 +1,62 @@
-﻿image,name
-آبشار-کلوگان.jpg,آبشار-کلوگان
-"آرامگاه-ابن-بابویه،-برج-طغرل.jpg","آرامگاه-ابن-بابویه،-برج-طغرل"
-آزادی-2.jpg,آزادی-2
-آکواریوم-و-موزه-صلح-پارک-شهر.jpg,آکواریوم-و-موزه-صلح-پارک-شهر
-امامزاده-داوود.jpg,امامزاده-داوود
-ایران-مال-1.jpg,ایران-مال-1
-بازار-تجریش.jpg,بازار-تجریش
-بازار-تهران-چهار-سوق.jpg,بازار-تهران-چهار-سوق
-باشگاه-انقلاب-3.jpg,باشگاه-انقلاب-3
-باغ-ایرانی-تهران-سفرزون.jpeg,باغ-ایرانی-تهران-سفرزون
-باغ-فردوس.jpg,باغ-فردوس
-باغ-فردوس2.jpg,باغ-فردوس2
-باغ-موزه-قصر.jpg,باغ-موزه-قصر
-باغ-مینیاتور.jpg,باغ-مینیاتور
-باغ-نگارستان-2.jpg,باغ-نگارستان-2
-باغ-پرندگان-تهران.jpg,باغ-پرندگان-تهران
-باغ-کتاب-تهران.jpg,باغ-کتاب-تهران
-بام-تهران.jpg,بام-تهران
-بوستان-پلیس-1.jpg,بوستان-پلیس-1
-تئاتر-شهر.jpg,تئاتر-شهر
-جمشیدیه-1.jpg,جمشیدیه-1
-حسن-آباد.jpg,حسن-آباد
-خانه-ابوالحسن-صبا6.jpg,خانه-ابوالحسن-صبا6
-خانه-دکتر-مصدق.jpg,خانه-دکتر-مصدق
-خانه-موزه-جلال-پ-سیمین-1.jpg,خانه-موزه-جلال-پ-سیمین-1
-خانه-کاظمی.jpg,خانه-کاظمی
-خیابان-۳۰-تیر.jpg,خیابان-۳۰-تیر
-دربند-تهران.jpg,دربند-تهران
-درکه.jpg,درکه
-دریاچه-شهدای-خلیج-فارس.jpeg,دریاچه-شهدای-خلیج-فارس
-روستای-وردیج-و-واریش.jpg,روستای-وردیج-و-واریش
-روستای-کن.jpg,روستای-کن
-سرخه-حصار-1.jpg,سرخه-حصار-1
-سردرباغ-ملی.jpg,سردرباغ-ملی
-سرکیس-مقدس.jpg,سرکیس-مقدس
-سعد-آباد-2.jpg,سعد-آباد-2
-شمس-العماره.jpg,شمس-العماره
-شهرک-سینمایی-غزالی.jpg,شهرک-سینمایی-غزالی
-عمارت-مسعودیه2.jpg,عمارت-مسعودیه2
-عمارت-کلاه-فرنگی-سفرزون.jpg,عمارت-کلاه-فرنگی-سفرزون
-لالان.jpg,لالان
-مدرسه-دارالفنون.jpg,مدرسه-دارالفنون
-مسجد-و-مدرسه-سپهسالار.jpg,مسجد-و-مدرسه-سپهسالار
-موزه-آبگینه-و-سفالینه-تهران.jpg,موزه-آبگینه-و-سفالینه-تهران
-موزه-تماشاگه-زمان.jpg,موزه-تماشاگه-زمان
-موزه-جواهر-1.jpg,موزه-جواهر-1
-موزه-صلح.jpg,موزه-صلح
-موزه-عبرت.jpg,موزه-عبرت
-موزه-فرش-ایران.jpg,موزه-فرش-ایران
-موزه-مقدم.jpg,موزه-مقدم
-موزه-ملی-ایران.jpg,موزه-ملی-ایران
-موزه-هنرهای-معاصر.jpg,موزه-هنرهای-معاصر
-میلاد-2.jpg,میلاد-2
-پارک-جنگلی-لویزان.jpg,پارک-جنگلی-لویزان
-پارک-ساعی.jpg,پارک-ساعی
-پارک-ساعی2.jpg,پارک-ساعی2
-پارک-ملت.jpg,پارک-ملت
-پارک-پردیسان.jpg,پارک-پردیسان
-پارک-ژوراسیک.jpg,پارک-ژوراسیک
-پل-طبیعت-1.jpg,پل-طبیعت-1
-پیست-اسکی-توچال.jpg,پیست-اسکی-توچال
-پیست-اسکی-دربندسر.jpg,پیست-اسکی-دربندسر
-پیست-اسکی-دیزین.jpg,پیست-اسکی-دیزین
-پیست-اسکی-شمشک.jpg,پیست-اسکی-شمشک
-کاخ-نیاوران.jpg,کاخ-نیاوران
-کاخ-گلستان.jpg,کاخ-گلستان
-کاروانسرای-خانات.jpg,کاروانسرای-خانات
-گیاه-شناسی-2.jpg,گیاه-شناسی-2
-ییلاق-فشم-و-لواسان.jpg,ییلاق-فشم-و-لواسان
+﻿image,name,location,other photos
+آبشار-کلوگان.jpg,Kelogan Waterfall,"https://www.google.com/maps/place/Kelogan+Waterfall/@35.8985018,51.5618937,13z/data=!4m6!3m5!1s0x3f8e11e2180ee0ab:0xae53379894366dfc!8m2!3d35.887081!4d51.567816!16s%2Fg%2F11jgs01t63?entry=ttu",
+"آرامگاه-ابن-بابویه،-برج-طغرل.jpg",The Tomb of Ibn Babawayh,"https://www.google.com/maps/place/The+Tomb+of+Ibn+Babawayh/@35.6022985,51.4437044,15z/data=!4m6!3m5!1s0x3f91fc08d410ad91:0xfb0991a3d176d665!8m2!3d35.6022985!4d51.4437044!16s%2Fg%2F120t9s5h?entry=ttu",
+آزادی-2.jpg,Azadi Tower,"https://www.google.com/maps/place/Azadi+Tower/@35.6997331,51.3380361,15z/data=!4m6!3m5!1s0x3f8dfe05732c2e91:0xfcbec017befd15f4!8m2!3d35.6997331!4d51.3380361!16zL20vMDR4ZHMw?entry=ttu",
+بازار-تجریش.jpg,Tajrish Traditional Bazaar,"https://www.google.com/maps/place/Tajrish+Traditional+Bazaar/@35.8053576,51.4305997,15z/data=!4m6!3m5!1s0x3f8e05e3cda369bb:0x4b68b4fb098aec74!8m2!3d35.8053576!4d51.4305997!16s%2Fg%2F11b6g5ssds?entry=ttu",
+باغ-ایرانی-تهران-سفرزون.jpeg,Persian Garden,"https://www.google.com/maps/place/Persian+Garden/@35.7715191,51.3911724,14.75z/data=!4m6!3m5!1s0x3f8e0652c1e4839d:0x9577197347d8fc47!8m2!3d35.772!4d51.3902955!16s%2Fg%2F11b7nzb3g9?entry=ttu",
+باغ-فردوس.jpg,Ferdows Garden,"https://www.google.com/search?tbs=lf:1,lf_ui:1&tbm=lcl&sxsrf=APwXEdfsBT0nZt0vvSNAPoPtxX2CtW7fTg:1687556994706&q=%D8%A8%D8%A7%D8%BA+%D9%81%D8%B1%D8%AF%D9%88%D8%B3&rflfq=1&num=10&ved=2ahUKEwi2qdTZr9r_AhV2iv0HHTd6AOAQtgN6BAgUEAI#rlfi=hd:;si:;mv:[[35.83950579639019,51.55406403062965],[35.68935049944031,51.177095646840584]]",
+باغ-موزه-قصر.jpg,Museum of the Qasr Prison,"https://www.google.com/maps/place/Museum+of+the+Qasr+Prison/@35.7235018,51.448297,15z/data=!4m6!3m5!1s0x3f8e03c6f0000001:0xf71ac9f4f900d01c!8m2!3d35.7235018!4d51.448297!16s%2Fm%2F02qgjmx?entry=ttu",
+باغ-مینیاتور.jpg,Miniature Garden Museum inheritance of iran,"https://www.google.com/maps/place/Tehran+Province,+Tehran%D8%8C+%D8%A2%D8%AF%D8%B1%D8%B3+:+%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86+%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%B2%D8%A7%D9%86+%D8%BA%D8%B1%D8%A8%DB%8C+%D8%AD%D8%AF%D9%81%D8%A7%D8%B5%D9%84+%D8%A7%D8%AA%D9%88%D8%A8%D8%A7%D9%86+%D8%A7%D9%85%D8%A7%D9%85+%D8%B9%D9%84%DB%8C+(%D8%B9)+%D9%88+%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86+%DA%A9%D8%B1%D9%85%D8%A7%D9%86+%D9%BE%D9%84%D8%A7%DA%A9+243,+Golbarg+Park+Way,+Miniature+Garden+Museum+inheritance+of+iran%E2%80%AD/@35.733241,51.4785512,15z/data=!4m6!3m5!1s0x3f8e030f4ad2ba31:0x2ed4ded1c1a55401!8m2!3d35.733241!4d51.4785512!16s%2Fg%2F11bvtdqyl8?entry=ttu",
+باغ-نگارستان-2.jpg,Negarestan Museum Garden,"https://www.google.com/maps/place/Negarestan+Museum+Garden/@35.6949336,51.4328287,15z/data=!4m6!3m5!1s0x3f8e0227ba3f44c3:0xa4355bb964f1b6e!8m2!3d35.6949336!4d51.4328287!16s%2Fg%2F12321bqj?entry=ttu",
+باغ-پرندگان-تهران.jpg,Tehran Birds Garden,"https://www.google.com/maps/place/Tehran+Birds+Garden/@35.7682186,51.5294459,15z/data=!4m6!3m5!1s0x3f8e1cba298a07f9:0x4be92952ae57b755!8m2!3d35.7682186!4d51.5294459!16s%2Fg%2F12ckhp8ph?entry=ttu",
+باغ-کتاب-تهران.jpg,Tehran Book Garden,"https://www.google.com/maps/place/Tehran+Book+Garden/@35.7519487,51.4326001,15z/data=!4m6!3m5!1s0x3f8e041cdb7e50af:0xb6ee8f5c9f83536e!8m2!3d35.7519487!4d51.4326001!16s%2Fg%2F1hb_f69qy?entry=ttu",
+بوستان-پلیس-1.jpg,Police Park,"https://www.google.com/maps/place/Police+Park/@35.7598749,51.5453025,15z/data=!4m6!3m5!1s0x3f8e1cee5121284f:0x224de0f5c0b1f20c!8m2!3d35.7598749!4d51.5453025!16s%2Fg%2F120rs0g1?entry=ttu",
+تئاتر-شهر.jpg,City Theatre,"https://www.google.com/maps/dir//Tehran+Province,+Tehran,+District+11,+Enghelab+St,+PC24%2B364/@35.7003494,51.4052861,19z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3f8e010c18398917:0xf821ac41f664417a!2m2!1d51.4055628!2d35.7003877?entry=ttu",
+جمشیدیه-1.jpg,Jamshidiyeh Park,"https://www.google.com/maps/place/Jamshidiyeh+Park/@35.8265033,51.4637465,15z/data=!4m6!3m5!1s0x3f8e05864542383b:0x9f3f0eb5aada9235!8m2!3d35.8265033!4d51.4637465!16zL20vMDZkcHBk?entry=ttu",
+حسن-آباد.jpg,Hasan Abad Square,"https://www.google.com/maps/place/Hasan+Abad+Square/@35.6861441,51.4101799,15z/data=!4m6!3m5!1s0x3f8e0197d7807c89:0x8ee209cb9c2f0b9f!8m2!3d35.6861441!4d51.4101799!16s%2Fg%2F121_c389?entry=ttu",
+خانه-ابوالحسن-صبا6.jpg,Saba Home Museum,"https://www.google.com/maps/place/Saba+Home+Museum/@35.6940966,51.4297607,15z/data=!4m6!3m5!1s0x3f8e01883fceda73:0x82d02e1fc1aaae6!8m2!3d35.6940966!4d51.4297607!16s%2Fg%2F11bw3z_c9b?entry=ttu",
+خانه-موزه-جلال-پ-سیمین-1.jpg,Simin & Jalal House Museum,"https://www.google.com/maps/place/Simin+%26+Jalal+House+Museum/@35.8017919,51.4394391,15z/data=!4m6!3m5!1s0x3f8e05fdd11a7ded:0x65d2f5a687b2bf41!8m2!3d35.8017919!4d51.4394391!16s%2Fg%2F11gyx_y195?entry=ttu",
+خانه-کاظمی.jpg,Kazemi Home Museum,"https://www.google.com/maps/place/%D9%85%D9%88%D8%B2%D9%87+%DA%A9%D8%A7%D8%B8%D9%85%DB%8C%E2%80%AD/@35.6776873,51.4341583,15z/data=!4m6!3m5!1s0x3f8e0203254176b5:0x917666ee6d42323e!8m2!3d35.6776873!4d51.4341583!16s%2Fg%2F120r4t7q?entry=ttu",
+خیابان-۳۰-تیر.jpg,30Th Tir Street,"https://www.google.com/maps/place/Tehran+Province,+Tehran,+District+12,+30th+Tir+St/@35.6901971,51.4142979,17z/data=!3m1!4b1!4m6!3m5!1s0x3f8e0199f2027fd9:0xd4a5b0efda056b4f!8m2!3d35.6901971!4d51.4142979!16s%2Fg%2F1tvry5_s?entry=ttu",
+دربند-تهران.jpg,Darband Neighborhood,"https://www.google.com/maps/place/Darband,+Tehran,+Tehran+Province/@35.823987,51.4252518,16z/data=!3m1!4b1!4m6!3m5!1s0x3f8e08b1e3bb99db:0xa2fb8a26871ef5c5!8m2!3d35.8233292!4d51.4250525!16zL20vMDVfdjZ3?entry=ttu",
+درکه.jpg,درکه,,
+دریاچه-شهدای-خلیج-فارس.jpeg,دریاچه شهدای خلیج فارس,,
+روستای-وردیج-و-واریش.jpg,روستای وردیج و واریش,,
+روستای-کن.jpg,روستای کن,,
+سرخه-حصار-1.jpg,سرخه حصار 1,,
+سردرباغ-ملی.jpg,سردرباغ ملی,,
+سرکیس-مقدس.jpg,سرکیس مقدس,,
+سعد-آباد-2.jpg,سعد آباد 2,,
+شمس-العماره.jpg,شمس العماره,,
+شهرک-سینمایی-غزالی.jpg,شهرک سینمایی غزالی,,
+عمارت-مسعودیه2.jpg,عمارت مسعودیه2,,
+عمارت-کلاه-فرنگی-سفرزون.jpg,عمارت کلاه فرنگی سفرزون,,
+لالان.jpg,لالان,,
+مدرسه-دارالفنون.jpg,مدرسه دارالفنون,,
+مسجد-و-مدرسه-سپهسالار.jpg,مسجد و مدرسه سپهسالار,,
+موزه-آبگینه-و-سفالینه-تهران.jpg,موزه آبگینه و سفالینه تهران,,
+موزه-تماشاگه-زمان.jpg,موزه تماشاگه زمان,,
+موزه-جواهر-1.jpg,موزه جواهر 1,,
+موزه-صلح.jpg,موزه صلح,,
+موزه-عبرت.jpg,موزه عبرت,,
+موزه-فرش-ایران.jpg,موزه فرش ایران,,
+موزه-مقدم.jpg,موزه مقدم,,
+موزه-ملی-ایران.jpg,موزه ملی ایران,,
+موزه-هنرهای-معاصر.jpg,موزه هنرهای معاصر,,
+میلاد-2.jpg,میلاد 2,,
+پارک-جنگلی-لویزان.jpg,پارک جنگلی لویزان,,
+پارک-ساعی.jpg,پارک ساعی,,
+پارک-ساعی2.jpg,پارک ساعی2,,
+پارک-ملت.jpg,پارک ملت,,
+پارک-پردیسان.jpg,پارک پردیسان,,
+پارک-ژوراسیک.jpg,پارک ژوراسیک,,
+پل-طبیعت-1.jpg,پل طبیعت 1,,
+پیست-اسکی-توچال.jpg,پیست اسکی توچال,,
+پیست-اسکی-دربندسر.jpg,پیست اسکی دربندسر,,
+پیست-اسکی-دیزین.jpg,پیست اسکی دیزین,,
+پیست-اسکی-شمشک.jpg,پیست اسکی شمشک,,
+کاخ-نیاوران.jpg,کاخ نیاوران,,
+کاخ-گلستان.jpg,کاخ گلستان,,
+کاروانسرای-خانات.jpg,کاروانسرای خانات,,
+گیاه-شناسی-2.jpg,گیاه شناسی 2,,
+ییلاق-فشم-و-لواسان.jpg,ییلاق فشم و لواسان,,
