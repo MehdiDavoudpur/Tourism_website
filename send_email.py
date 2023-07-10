@@ -1,8 +1,9 @@
 import smtplib
 import ssl
+import os
 
 username = 'davoudpour2000@gmail.com'
-password = 'sqaqsjjhdsdnqwbt'
+password = os.getenv('gmail_pass')
 host = 'smtp.gmail.com'
 port = 465
 context = ssl.create_default_context()

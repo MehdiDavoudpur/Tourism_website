@@ -15,9 +15,11 @@ with st.form(key='send email'):
 
     message_body = f"""\
 Subject: New email from {user_email}
+
 From: {user_email}
 {user_message}
 """
 
 if button:
     send_email.send_email(message_body)
+    st.write('your mail was sent successfully')
